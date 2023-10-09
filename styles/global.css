@@ -1,0 +1,11 @@
+:root {
+  --color-primery: #6c38cc;
+}
+
+html {
+  --color-primery: green;
+}
+
+body {
+  background: #16171d;
+}
