@@ -1,1 +1,1 @@
-Верстка страницы с Антоном Ларичевым. 
+# Page layout with Anton Larichev. HTML.
